@@ -217,4 +217,12 @@ https://cocc.me/kpluslive2hd?id=kplus02/seasonid=32/i.mpd
 https://cocc.me/kpluslive3hd?id=kplus03/seasonid=46/i.mpd
 
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/cinekkk",1.K+ CINE
+http://vthanhtivi.pw:5000/kcine/index.m3u8
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://gg.gg/k-lifekkk",1.K+ LIFE
+http://vthanhtivi.pw:5000/klife/index.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://gg.gg/k-1sportsskkk",1.K+ SPORT 1
+https://asia.vthanhtivi.pw/test/index.m3u8
+
+
 
